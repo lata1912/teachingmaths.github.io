@@ -1,2 +1,2 @@
 This is a Maths Teaching Platform to teach students in a easy manner.<br>
-Author - Lata@amazon.com
+Author - Lata Prajapat
